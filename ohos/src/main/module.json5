@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "flutter_exit_app",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

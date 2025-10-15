@@ -34,6 +34,6 @@
 * Update native code
 * Fix an issue [#1](https://github.com/xang555/flutter_exit_app/issues/1)
 
-# 1.1.4
+# 1.1.5
 
 * Fix an issue [#2](https://github.com/xang555/flutter_exit_app/issues/2)
