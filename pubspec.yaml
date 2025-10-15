@@ -36,8 +36,8 @@ flutter:
       ios:
         pluginClass: FlutterExitAppPlugin
       ohos:
-        package:com.laoitdev.lib.exit.app.flutter_exit_app
-        pluginClass:FlutterExitAppPlugin
+        package: com.laoitdev.lib.exit.app.flutter_exit_app
+        pluginClass: FlutterExitAppPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
